@@ -1,0 +1,68 @@
+/* Body */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #0d6efd;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation */
+nav {
+    background-color: #222;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+/* Main */
+main {
+    background-color: white;
+    padding: 20px;
+    font-size: 1.1em;
+}
+
+/* Footer */
+footer {
+    background-color: #0d6efd;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* List items */
+li {
+    display: inline-block;
+    width: 180px;
+    margin: 5px;
+}
+
+/* Heading */
+h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+    color: darkblue;
+}
+
+/* Paragraph */
+p {
+    line-height: 1.7;
+}
